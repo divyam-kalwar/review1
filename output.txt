@@ -1,0 +1,28 @@
+1. undefined, undefined
+
+2. "12", 2, "33", true, false
+
+3. 0,1,2
+    0,1,2
+
+4. JS
+    undefined
+
+5. 1,2,1
+
+6. [1,2,3,4]
+    11
+    
+7. [2,4,6,8]
+    [2,4]
+    undefined
+    10
+
+8. {a:1, b:5, c:3, d:4}
+    [10, 30]
+
+9. "default", "", "fallback", true, false, true,false
+
+10. 12
+    ["apple", "banana", "cherry"]
+    [1,9,10]
